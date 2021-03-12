@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE group SYSTEM "group.dtd">
+<group>
+    <student firstname="Dmitry" lastname="Bekker" groupnumber="81">
+        <subject title="JavaSE" mark="5"/>
+        <subject title="WEB" mark="5"/>
+        <subject title="Database" mark="4"/>
+        <subject title="Computer networks" mark="5"/>
+        <subject title="3ds max" mark="4"/>
+        <subject title="Decision theory" mark="4"/>
+        <average>4</average>
+    </student>
+    <student firstname="Anton" lastname="Lashenko" groupnumber="83">
+        <subject title="JavaEE" mark="4"/>
+        <subject title="WEB" mark="3"/>
+        <subject title="Database" mark="4"/>
+        <subject title="Decision theory" mark="5"/>
+        <average>4</average>
+    </student>
+    <student firstname="Andrey" lastname="Xvatsko" groupnumber="82">
+        <subject title="JavaEE" mark="3"/>
+        <subject title="WEB" mark="5"/>
+        <subject title="Database" mark="3"/>
+        <average>4</average>
+    </student>
+    <student firstname="Alexey" lastname="Kvarcev" groupnumber="72">
+        <subject title="JavaEE" mark="5"/>
+        <subject title="WEB" mark="5"/>
+        <subject title="Database" mark="4"/>
+        <subject title="Computer networks" mark="3"/>
+        <average>2</average>
+    </student>
+    <student firstname="Andy" lastname="Hermionov" groupnumber="63">
+        <subject title="JavaEE" mark="5"/>
+        <subject title="WEB" mark="5"/>
+        <subject title="Database" mark="4"/>
+        <subject title="Computer networks" mark="3"/>
+        <average>2</average>
+    </student>
+</group>
